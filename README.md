@@ -1,2 +1,2 @@
 # pipeline-gitcheck
-pipeline git check experiment X
+pipeline git check experiment XY
